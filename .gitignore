@@ -1,2 +1,4 @@
 node_modules
-sounds.json
+public/js/sounds.json
+public/js/bundle.js
+local.json

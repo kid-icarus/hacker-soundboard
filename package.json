@@ -4,11 +4,13 @@
   "description": "A fun soundboard.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "author": "Ryan Kois",
   "license": "BSD",
   "dependencies": {
-    "express": "^4.9.5"
+    "express": "^4.9.5",
+    "nconf": "^0.6.9"
   }
 }
