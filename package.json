@@ -1,0 +1,14 @@
+{
+  "name": "hacker-soundboard",
+  "version": "0.0.0",
+  "description": "A fun soundboard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Kois",
+  "license": "BSD",
+  "dependencies": {
+    "express": "^4.9.5"
+  }
+}
